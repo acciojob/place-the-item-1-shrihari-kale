@@ -1,2 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: 30px;
+}
 
-/* Your CSS Code here. */
+.box {
+    width: 150px;
+    height: 150px;
+    font-size: 60px;
+}
+
+.green {
+    background: green;
+}
+
+.red {
+    background: red;
+}
+
+.blue {
+    background: blue;
+}
